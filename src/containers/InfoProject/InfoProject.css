@@ -1,0 +1,31 @@
+.infoProject {
+    background: #fff;
+    width: 50%;
+    margin-top: 100px;
+    border-radius: 70px 70px 0 0;
+    text-align: center;
+}
+
+.infoProject img {
+    width: 100px;
+    height: 100px;
+}
+
+.infoProject a {
+    background: #181818;
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.infoProject p {
+    font-size: 20px;
+    width: 80%;
+    background: rgb(0 0 0 / 50%);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    color: #fff;
+}
